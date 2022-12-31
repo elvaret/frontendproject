@@ -1,2 +1,2 @@
 Link Deploy Website:
-https://omnifood-elvaret.netlify.app/
+https://elvaret-omnifood.netlify.app/
